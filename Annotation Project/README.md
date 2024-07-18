@@ -1,1 +1,2 @@
+Developed an ordinal regression model to categorize Yelp reviews based on passion levels. By transforming the multiclass classification problem into k-1 binary classification tasks, this effectively models the probability that each review belongs to a certain category or a higher category. The use of thresholds in the binary classification tasks allows us to define decision boundaries between adjacent categories and determine whether the review is being appropriately classified.
 
